@@ -20,7 +20,7 @@
 ---
 
 ## 🛠 Tech Stack
-
+<div align="center">
 **Languages & Frameworks**
 
 [![Skills](https://skillicons.dev/icons?i=cs,dotnet,dart,flutter,js,html,css,bootstrap,php&perline=9)](https://skillicons.dev)
@@ -35,8 +35,8 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+</div>
 
----
 
 ## 🚀 What I Do
 
@@ -82,29 +82,6 @@
 
 - **B.Sc. in Computing & Information Technology**, National Egyptian E-Learning University, Assiut (2013 – 2017)
 - **Diploma in Web & Mobile Cross-Platform Development**, Information Technology Institute (ITI), Assiut (2019)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake](https://github.com/YOUR-USERNAME/YOUR-USERNAME/raw/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
