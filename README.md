@@ -84,7 +84,8 @@
 - **Diploma in Web & Mobile Cross-Platform Development**, Information Technology Institute (ITI), Assiut (2019)
 
 ---
-
+📊 GitHub Stats
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmrFathyMohamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrFathyMohamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <img height="170" src="https://streak-stats.demolab.com?user=AmrFathyMohamed&theme=tokyonight&hide_border=true"/> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AmrFathyMohamed&theme=tokyonight&no-frame=true&row=1&column=7"/> </div> <details> <summary>📈 Detailed metrics (auto-generated daily by GitHub Actions)</summary> <div align="center"> <img src="./github-metrics.svg"/> </div> </details>
 ## 🌐 Connect With Me
 
 <div align="center">
