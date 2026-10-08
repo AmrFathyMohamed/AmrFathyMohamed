@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Amr%20Fathy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20.NET%20Developer%20%7C%20Flutter%20%7C%20Technical%20Trainer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=760&lines=Senior+.NET+Developer+%F0%9F%92%BB;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%9A%80;ASP.NET+Core+%7C+Flutter+%7C+SQL+Server+%E2%9A%A1;Certified+Trainer+%E2%80%94+Mentored+100%2B+Students+%F0%9F%8E%93;Clean+Architecture+%26+Reliable+Delivery+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=760&lines=Senior+.NET+Developer+(Full-Stack)+%F0%9F%92%BB;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%9A%80;ASP.NET+Core+%7C+Flutter+%7C+SQL+Server+%E2%9A%A1;Certified+Trainer+%E2%80%94+Mentored+300%2B+Students+%F0%9F%8E%93;Clean+Architecture+%26+Reliable+Delivery+%F0%9F%9B%A0%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,7 +13,7 @@
 - 💼 **Senior .NET Developer (Full-Stack)** at **EEMC | Egypt for Management Company**, building and shipping production systems since 2020
 - 📱 **Freelance Full-Stack & Flutter Developer** since 2019, with **10+ cross-platform mobile apps** delivered
 - 🎓 **Certified Trainer** for Egypt's **Digital Egypt Pioneers Initiative (DEPI)**, teaching .NET & Mobile Development (Rounds One & Two)
-- 👥 Mentored **100+ students** into building real full-stack web and mobile projects
+- 👥 Mentored **300+ students** into building real full-stack web and mobile projects
 - 🧱 Passionate about **Clean Architecture**, secure REST APIs, and code that stays maintainable at scale
 - 🌍 Based in **Assiut, Egypt** · Arabic (Native) · English (Professional)
 
